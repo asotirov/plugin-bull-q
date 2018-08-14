@@ -1,0 +1,12 @@
+{
+  "name": "plugin-bull-q",
+  "version": "0.1.0",
+  "plugin": true,
+  "main": "bull-q.js",
+  "dependencies": {
+    "bull": "^3.4.4"
+  },
+  "devDependencies": {
+    "@types/bull": "^3.3.19"
+  }
+}
